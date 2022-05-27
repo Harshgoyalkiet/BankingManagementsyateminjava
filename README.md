@@ -4,6 +4,20 @@ project created using some advanced oops concepts of java
 --> This is a project made on BANK MANAGEMENT SYSTEM using Object Oriented Concepts in JAVA. This project can be used to implement the basic banking operations like create account, deposit, withdraw, check balance in different currency format (USA, INDIA, FRANCE, CHINA, etc), get employee details, check registration status of customer,etc with the help of menu driven program in JAVA language. Below are more details of this project including the list of concepts used.
 
 --> TOTAL LINES OF CODE IN THIS PROJECT : 430 LINES
+--> files in package1
+check_balance.java
+deposit_account.java
+employee.java
+main_page.java
+welcome.java
+withdrawl_account.java
+
+-->files in package2 
+implementing_thread.java
+phone.java
+phone_delete.java
+
+
 
 
 --> TOPICS COVERED IN THE PROJECT :
